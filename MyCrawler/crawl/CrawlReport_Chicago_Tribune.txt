@@ -1,0 +1,12 @@
+News site crawled: chicagotribune.com
+
+ Fetch Statistics ================# fetches attempted: 19930
+# fetches succeeded: 18122
+# fetches aborted or failed: 1808
+Outgoing URLs:==============Total URLs extracted:1145944# unique URLs extracted:138589# unique URLs within News Site:124656# unique URLs outside News Site:13933
+Status Codes:=============200 OK: 18122301 Moved Permanently: 1015
+302: 1401 Unauthorized: 0403 Forbidden: 0404 Not Found: 12
+429 Too Many Requests: 769
+503 Service Unavailable: 11
+File Sizes:===========< 1KB: 11KB ~ <10KB: 4210KB ~ <100KB: 1394100KB ~ <1MB: 16233>= 1MB: 0
+Content Types:==============text/html: 17670image/gif: 0image/jpeg: 0image/png: 0application/pdf: 0
